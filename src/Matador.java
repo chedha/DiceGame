@@ -9,7 +9,7 @@ public class Matador {
 		int playerNum;
 		int compNum;
 		Random rand = new Random();
-		final int WIN = 150;
+		final int WIN = 130;
 
 		Scanner scnr = new Scanner(System.in);
 
